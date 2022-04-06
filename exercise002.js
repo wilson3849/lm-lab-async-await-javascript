@@ -1,6 +1,6 @@
 import fetch from "node-fetch";
 
-const jsonTypicode = "https://1jsonplaceholder.typicode.com/todos/1";
+const jsonTypicode = "https://jsonplaceholder.typicode.com/todos/1";
 
 const getfetchData = async (apiEndPoint) => {
   try
